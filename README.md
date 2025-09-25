@@ -1,23 +1,24 @@
 👋 Hi, I’m @gauravchile
 
-👀 I’m interested in cybersecurity defense mechanisms, particularly network defense, threat detection, and incident response
+👀 I’m interested in Linux system administration, server management, and automation.
 
-🌱 I’m currently expanding my expertise in forensic analysis, system hardening, and security monitoring using tools like Splunk, Elastic Stack (ELK), Wireshark, and Snort
+🌱 I’m currently expanding my expertise in user and permission management, system hardening, monitoring, and scripting using tools like Bash, Python, and Ansible.
 
 💼 My hands-on experience includes:
 
-Network Intrusion Detection & Vulnerability Scanning: Implemented a security setup using Snort for real-time monitoring and Nmap for vulnerability assessments
+User & Permission Management: Created multi-user setups with Admin/Staff/Guest roles, configured directory permissions, and automated access control using scripts.
 
-System Hardening: Secured a CentOS server by configuring SSH hardening, firewall rules, and enforcing SELinux. Also integrated AIDE for file integrity monitoring and Auditd for detailed logging
+System Hardening: Configured secure SSH access, firewalls, file integrity monitoring, and regular system updates for Linux servers.
 
-Incident Response: Acted as an analyst during simulations, identifying, reporting, and mitigating phishing attempts and malware threats
+Automation & Scripting: Developed Bash scripts for system maintenance, backups, and permission testing.
 
-💻 I’ve also completed various challenges, including Capture the Flag (CTF) and TryHackMe labs, focused on ethical hacking, network security, and system exploitation.
+💻 I’ve also completed projects and labs focused on Linux administration, file system management, and process monitoring.
 
-💞️ I’m looking to collaborate on projects related to SOC simulations, incident response workflows, and cybersecurity tool integration
+💞️ I’m looking to collaborate on projects related to Linux server setups, automation scripts, and system security configurations.
 
-📫 How to reach me: gauravchile05@gmail.com, linkedin.com/in/gaurav-chile/
+📫 How to reach me: gauravchile05@gmail.com
+, LinkedIn
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy participating in security challenges and developing custom scripts for cybersecurity automation!
+⚡ Fun fact: I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting
