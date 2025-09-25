@@ -16,8 +16,7 @@ Automation & Scripting: Developed Bash scripts for system maintenance, backups, 
 
 💞️ I’m looking to collaborate on projects related to Linux server setups, automation scripts, and system security configurations.
 
-📫 How to reach me: gauravchile05@gmail.com
-, LinkedIn
+📫 How to reach me: gauravchile05@gmail.com ,  https://www.linkedin.com/in/gaurav-chile/
 
 😄 Pronouns: He/Him
 
