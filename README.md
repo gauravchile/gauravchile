@@ -26,7 +26,7 @@
 - System security configurations  
 - DevOps pipelines, Terraform, cloud, and Jenkins automation  
 
-📫 **Reach me at:** [gauravchile05@gmail.com](mailto:gauravchile05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gaurav-chile/)  
+📫 **Reach me at:** [Mail](mailto:gauravchile05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gaurav-chile/)  
 
 😄 **Pronouns:** He/Him  
 
