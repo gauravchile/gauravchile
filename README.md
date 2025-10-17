@@ -9,18 +9,21 @@
 - Scripting with **Bash**, **Python**, and **Ansible**  
 - **DevOps practices**: CI/CD, containerization, cloud, Terraform, AWS, and Jenkins  
 
-💼 **Hands-on experience includes:**
-
-- **User & Permission Management:** Multi-user setups with Admin/Staff/Guest roles, automated access control scripts  
-- **System Hardening:** SSH security, firewall setup, file integrity monitoring, regular Linux updates  
-- **Automation & Scripting:** Bash scripts for maintenance, backups, permission testing  
-
 💻 **Projects & Labs:**
 
-- Linux administration and server setup  
-- File system management  
-- Process and resource monitoring  
-- System security and hardening  
+## 📂 Projects
+
+[![Linux Command Logging](https://img.shields.io/badge/Linux--Command--Logging-Shell-blue?logo=gnu-bash)](https://github.com/gauravchile/Linux-command-logging)  
+[![System Hardening](https://img.shields.io/badge/System--Hardening-Shell-green?logo=gnu-bash)](https://github.com/gauravchile/System-hardening)  
+[![System Health Reporter](https://img.shields.io/badge/System--Health--Reporter-Shell-orange?logo=gnu-bash)](https://github.com/gauravchile/System_health_reporter)  
+[![Linux User Access](https://img.shields.io/badge/Linux--User--Access-Shell-red?logo=gnu-bash)](https://github.com/gauravchile/linux-user-access)  
+[![Password Generator](https://img.shields.io/badge/Password--Generator-Shell-purple?logo=gnu-bash)](https://github.com/gauravchile/Password-generator)  
+[![Configure Mail Server](https://img.shields.io/badge/Configure--Mail--Server-Shell-yellow?logo=gnu-bash)](https://github.com/gauravchile/Configure_mail_server)  
+[![Linux Network Sharing Automation](https://img.shields.io/badge/Linux--Network--Sharing--Automation-Shell-teal?logo=gnu-bash)](https://github.com/gauravchile/Linux_network_sharing_automation)  
+[![LAMP](https://img.shields.io/badge/LAMP-Shell-pink?logo=gnu-bash)](https://github.com/gauravchile/LAMP)  
+[![Virtualization Networking Lab](https://img.shields.io/badge/Virtualization--Networking--Lab-Shell-lightgrey?logo=gnu-bash)](https://github.com/gauravchile/Virtualization_networking_lab)  
+[![Reverse Proxy Loadbalancer Lab](https://img.shields.io/badge/Reverse--Proxy--Loadbalancer--Lab-Shell-brown?logo=gnu-bash)](https://github.com/gauravchile/Reverse_proxy_loadbalancer_lab)  
+[![Trash Enabled Command](https://img.shields.io/badge/Trash--Enabled--Command-Shell-lightblue?logo=gnu-bash)](https://github.com/gauravchile/Trash-enabled-command)  
 
 🛠️ **Tools & Technologies:**  
 
