@@ -19,6 +19,11 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-F0DB4F?logo=jenkins&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
+## 📈 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravchile&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchile&layout=compact&theme=radical)
+
 💞️ I’m looking to collaborate on projects related to:
 
 - Linux server setups  
