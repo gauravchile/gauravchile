@@ -30,12 +30,4 @@
 😄 **Pronouns:** He/Him  
 
 ⚡ **Fun fact:** I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting.
-![Bash](https://img.shields.io/badge/Bash-90%25-4EAA25)  
-![Python](https://img.shields.io/badge/Python-85%25-3776AB)  
-![Linux](https://img.shields.io/badge/Linux-85%25-FCC624)  
-![Ansible](https://img.shields.io/badge/Ansible-75%25-EE0000)  
-![Docker](https://img.shields.io/badge/Docker-70%25-2496ED)  
-![Jenkins](https://img.shields.io/badge/Jenkins-65%25-D24939)  
-![Terraform](https://img.shields.io/badge/Terraform-60%25-623CE4)  
-![AWS](https://img.shields.io/badge/AWS-60%25-232F3E)
 
