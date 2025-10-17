@@ -1,23 +1,47 @@
-👋 Hi, I’m @gauravchile
+# 👋 Hi, I’m @gauravchile
 
-👀 I’m interested in Linux system administration, server management, and automation.
+👀 I’m passionate about **Linux system administration**, **server management**, **automation**, and **DevOps**.  
 
-🌱 I’m currently expanding my expertise in user and permission management, system hardening, monitoring, and scripting using tools like Bash, Python, and Ansible.
+🌱 I’m currently expanding my expertise in:
 
-💼 My hands-on experience includes:
+- Linux **user & permission management**  
+- **System hardening** and monitoring  
+- Scripting with **Bash**, **Python**, and **Ansible**  
+- **DevOps practices**: CI/CD, containerization, and cloud basics  
 
-User & Permission Management: Created multi-user setups with Admin/Staff/Guest roles, configured directory permissions, and automated access control using scripts.
+💼 **Hands-on experience includes:**
 
-System Hardening: Configured secure SSH access, firewalls, file integrity monitoring, and regular system updates for Linux servers.
+- **User & Permission Management:** Multi-user setups with Admin/Staff/Guest roles, automated access control scripts  
+- **System Hardening:** SSH security, firewall setup, file integrity monitoring, regular Linux updates  
+- **Automation & Scripting:** Bash scripts for maintenance, backups, permission testing  
 
-Automation & Scripting: Developed Bash scripts for system maintenance, backups, and permission testing.
+💻 **Projects & Labs:**
 
-💻 I’ve also completed projects and labs focused on Linux administration, file system management, and process monitoring.
+- Linux administration and server setup  
+- File system management  
+- Process and resource monitoring  
+- System security and hardening  
 
-💞️ I’m looking to collaborate on projects related to Linux server setups, automation scripts, and system security configurations.
+🛠️ **Tools & Technologies:**  
 
-📫 How to reach me: gauravchile05@gmail.com ,  https://www.linkedin.com/in/gaurav-chile/
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F0DB4F?logo=jenkins&logoColor=white)  
 
-😄 Pronouns: He/Him
+💞️ I’m looking to collaborate on projects related to:
 
-⚡ Fun fact: I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting
+- Linux server setups  
+- Automation scripts  
+- System security configurations  
+- DevOps pipelines and cloud automation  
+
+📫 **Reach me at:** [gauravchile05@gmail.com](mailto:gauravchile05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gaurav-chile/)  
+
+😄 **Pronouns:** He/Him  
+
+⚡ **Fun fact:** I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting.  
+
