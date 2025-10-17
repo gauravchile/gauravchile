@@ -7,7 +7,7 @@
 - Linux **user & permission management**  
 - **System hardening** and monitoring  
 - Scripting with **Bash**, **Python**, and **Ansible**  
-- **DevOps practices**: CI/CD, containerization, and cloud basics  
+- **DevOps practices**: CI/CD, containerization, cloud, Terraform, AWS, and Jenkins  
 
 💼 **Hands-on experience includes:**
 
@@ -31,17 +31,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-F0DB4F?logo=jenkins&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 💞️ I’m looking to collaborate on projects related to:
 
 - Linux server setups  
 - Automation scripts  
 - System security configurations  
-- DevOps pipelines and cloud automation  
+- DevOps pipelines, Terraform, cloud, and Jenkins automation  
 
 📫 **Reach me at:** [gauravchile05@gmail.com](mailto:gauravchile05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gaurav-chile/)  
 
 😄 **Pronouns:** He/Him  
 
-⚡ **Fun fact:** I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting.  
-
+⚡ **Fun fact:** I enjoy building practical Linux projects, automating system tasks, and experimenting with shell scripting.
