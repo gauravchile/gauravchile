@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gauravchile
+# 👋 Hi, I’m Gaurav Chile
 
 👀 I’m passionate about **Linux system administration**, **server management**, **automation**, and **DevOps**.  
 
