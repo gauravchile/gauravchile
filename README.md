@@ -17,7 +17,7 @@
 
 ## 🧰 DevOpsTemplates
 
- [![DevOps Templates](https://img.shields.io/badge/DevOpsTemplates-Shell-?logo=gnu-Devops)](https://github.com/gauravchile/DevOpsTemplates)
+ [![DevOps Templates](https://img.shields.io/badge/DevOpsTemplates-Shell-?logo=gnu-bash)](https://github.com/gauravchile/DevOpsTemplates)
 
 ## 📂 Projects
 
