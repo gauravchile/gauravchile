@@ -17,7 +17,11 @@
 
 ## 🧰 DevOpsTemplates
 
- [![DevOps Templates](https://img.shields.io/badge/DevOpsTemplates-Shell-?logo=gnu-bash)](https://github.com/gauravchile/DevOpsTemplates)
+<p align="center">
+  <a href="https://github.com/gauravchile/DevOpsTemplates">
+    <img src="https://img.shields.io/badge/DevOpsTemplates-Shell-blue?logo=gnu-bash" alt="DevOps Templates Badge">
+  </a>
+</p>
 
 ## 📂 Projects
 
