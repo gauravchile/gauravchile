@@ -110,5 +110,5 @@ Transforming infrastructure into automated, secure, and production-ready systems
 🔗 **LinkedIn:** [linkedin.com/in/gaurav-chile](https://www.linkedin.com/in/gaurav-chile/)
 😄 **Pronouns:** He/Him
 
-⚡ **Fun fact:** I love building hands-on Linux projects and automating the boring stuff.
+⚡ **Fun fact:** I love building hands-on Linux & Cloud projects and automating the boring stuff.
 
