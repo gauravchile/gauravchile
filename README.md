@@ -51,7 +51,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ---
 
-## 🧰 DevOps Templates
+## 🧰 DevOps Toolkit
 
 [![DevOps Templates](https://img.shields.io/badge/DevOpsTemplates-DevOps__Toolkit-blue?logo=docker\&logoColor=white)](https://github.com/gauravchile/DevOpsTemplates)
 [![Jenkins Shared Libraries](https://img.shields.io/badge/JenkinsSharedLibs-Global%20Pipeline%20Shared%20Libraries-2ECC71?logo=jenkins\&logoColor=white)](https://github.com/gauravchile/JenkinsSharedLibs)
