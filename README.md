@@ -5,11 +5,16 @@
 💻 **Linux System Administrator & DevOps Engineer**
 Transforming infrastructure into automated, secure, and production-ready systems.
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=00C853\&width=450\&lines=Linux+Administrator;DevOps+Engineer;Automation+Specialist;Infrastructure+as+Code;Cloud+and+Security+Enthusiast)](https://git.io/typing-svg)
-
+<div align="center" style="width: 100%; display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=Linux+Administrator;DevOps+Engineer;Automation+Specialist;Infrastructure+as+Code;Cloud+and+Security+Enthusiast" 
+      alt="Typing SVG"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
 </div>
+
 
 ---
 
