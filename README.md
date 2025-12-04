@@ -55,6 +55,10 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ## 📂 Projects
 
+---
+
+### 🐧 **Linux Automation & System Administration**
+
 [![Linux Command Logging](https://img.shields.io/badge/LinuxCommandLogging-Shell-blue?logo=gnu-bash)](https://github.com/gauravchile/LinuxCommandLogging)
 [![System Hardening](https://img.shields.io/badge/SystemHardening-Shell-green?logo=gnu-bash)](https://github.com/gauravchile/SystemHardening)
 [![System Health Reporter](https://img.shields.io/badge/SystemHealthReporter-Shell-orange?logo=gnu-bash)](https://github.com/gauravchile/SystemHealthReporter)
@@ -66,10 +70,20 @@ Transforming infrastructure into automated, secure, and production-ready systems
 [![Virtualization Networking Lab](https://img.shields.io/badge/VirtualizationNetworking-Shell-lightgrey?logo=gnu-bash)](https://github.com/gauravchile/VirtualizationNetworking)
 [![Reverse Proxy Loadbalancer](https://img.shields.io/badge/ReverseProxyLoadbalancer-Shell-brown?logo=gnu-bash)](https://github.com/gauravchile/ReverseProxyLoadbalancer)
 [![Trash Enabled](https://img.shields.io/badge/TrashEnabled-Shell-lightblue?logo=gnu-bash)](https://github.com/gauravchile/TrashEnabled)
+
+---
+
+### 🐳 **Dockerized & Cloud Projects**
+
 [![FlaskCacheOps](https://img.shields.io/badge/FlaskCacheOps-Docker--Flask--Redis--Nginx-blue?logo=docker)](https://github.com/gauravchile/FlaskCacheOps)
 [![UploadHub](https://img.shields.io/badge/UploadHub-Django--MinIO--Docker--Nginx-green?logo=django)](https://github.com/gauravchile/UploadHub)
 [![DockChat](https://img.shields.io/badge/DockChat-Flask--SocketIO--Redis--Docker--Nginx-yellow?logo=flask)](https://github.com/gauravchile/DockChat)
 [![TextPilot](https://img.shields.io/badge/TextPilot-Flask--Transformers--Docker--Nginx-red?logo=flask)](https://github.com/gauravchile/TextPilot)
+
+---
+
+### ☸️ **Kubernetes, Cloud & DevSecOps Pipelines**
+
 [![NeptuneStack](https://img.shields.io/badge/NeptuneStack-Kubernetes--Docker--Flask--AI-orange?logo=kubernetes)](https://github.com/gauravchile/NeptuneStack)
 [![Streamflix](https://img.shields.io/badge/Streamflix-Microservices--Docker--Kubernetes-cyan?logo=docker)](https://github.com/gauravchile/Streamflix)
 [![EKSWebAppDeployment](https://img.shields.io/badge/EKSWebAppDeployment-Kubernetes--EKS--DevOps-gradient?logo=kubernetes\&logoColor=white\&labelColor=blue\&color=purple)](https://github.com/gauravchile/EKSWebAppDeployment)
@@ -93,9 +107,8 @@ Transforming infrastructure into automated, secure, and production-ready systems
 ## 📫 Connect With Me
 
 📧 **Email:** [gauravchile05@gmail.com](mailto:gauravchile05@gmail.com)
-
 🔗 **LinkedIn:** [linkedin.com/in/gaurav-chile](https://www.linkedin.com/in/gaurav-chile/)
-
 😄 **Pronouns:** He/Him
 
 ⚡ **Fun fact:** I love building hands-on Linux projects and automating the boring stuff.
+
