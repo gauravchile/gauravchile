@@ -48,7 +48,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 ![Loki](https://img.shields.io/badge/Loki-FFE600?logo=grafana-loki\&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Active-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/AGENTIC%20AI-20232A?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
