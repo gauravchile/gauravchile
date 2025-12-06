@@ -20,7 +20,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 </div>
 
-## 🌱 Currently Exploring
+## 🌱 **Currently Exploring**
 
 * Linux **user & permission management**
 * **System hardening**, monitoring, and automation
@@ -29,7 +29,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash\&logoColor=white)
@@ -52,18 +52,18 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ---
 
-## 🧰 DevOps Toolkit
+## 🧰 **DevOps Toolkit**
 
 [![DevOps Templates](https://img.shields.io/badge/DevOpsTemplates-DevOps__Toolkit-blue?logo=docker\&logoColor=white)](https://github.com/gauravchile/DevOpsTemplates)
 [![Jenkins Shared Libraries](https://img.shields.io/badge/JenkinsSharedLibs-Global%20Pipeline%20Shared%20Libraries-2ECC71?logo=jenkins\&logoColor=white)](https://github.com/gauravchile/JenkinsSharedLibs)
 
 ---
 
-## 📂 Projects
+## 📂 **Projects**
 
 ---
 
-### 🐧 **Linux Automation & System Administration**
+### 🐧 **Linux Automation • System Administration**
 
 [![Linux Command Logging](https://img.shields.io/badge/LinuxCommandLogging-Shell-blue?logo=gnu-bash)](https://github.com/gauravchile/LinuxCommandLogging)
 [![System Hardening](https://img.shields.io/badge/SystemHardening-Shell-green?logo=gnu-bash)](https://github.com/gauravchile/SystemHardening)
@@ -79,7 +79,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ---
 
-### 🐳 **Dockerized & Cloud Projects**
+### 🐳 **Dockerized • Cloud Projects**
 
 [![FlaskCacheOps](https://img.shields.io/badge/FlaskCacheOps-Docker--Flask--Redis--Nginx-blue?logo=docker)](https://github.com/gauravchile/FlaskCacheOps)
 [![UploadHub](https://img.shields.io/badge/UploadHub-Django--MinIO--Docker--Nginx-green?logo=django)](https://github.com/gauravchile/UploadHub)
@@ -88,7 +88,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ---
 
-### ☸️ **Kubernetes, Cloud & DevSecOps Pipelines**
+### ☸️ **Kubernetes • Cloud •  DevSecOps Pipelines**
 
 [![NeptuneStack](https://img.shields.io/badge/NeptuneStack-Kubernetes--Docker--Flask--AI-orange?logo=kubernetes)](https://github.com/gauravchile/NeptuneStack)
 [![Streamflix](https://img.shields.io/badge/Streamflix-Microservices--Docker--Kubernetes-cyan?logo=docker)](https://github.com/gauravchile/Streamflix)
@@ -98,11 +98,11 @@ Transforming infrastructure into automated, secure, and production-ready systems
 [![EdgeWave](https://img.shields.io/badge/EdgeWave-DevSecOps__Pipeline-gradient?logo=argo\&logoColor=white\&labelColor=0A66C2\&color=00C853)](https://github.com/gauravchile/EdgeWave)
 
 ---
-##  ⚙️ Infrastructure as Code • Automation • Observability • AI-Enhanced DevSecOps
+##  ⚙️ **Infrastructure as Code • Automation • Observability • AI-Enhanced DevSecOps**
 
 ---
 
-## 🤝 Collaboration
+## 🤝 **Collaboration**
 
 * Linux server setups & hardening
 * Automation scripts (Bash, Python, Ansible)
@@ -113,7 +113,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 <div align="center">
 
-## 📫 Connect With Me
+## 📫 **Connect With Me**
 
 📧 **Email:** [gauravchile05@gmail.com](mailto:gauravchile05@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/gaurav-chile](https://www.linkedin.com/in/gaurav-chile/)
