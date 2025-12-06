@@ -48,6 +48,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 ![Loki](https://img.shields.io/badge/Loki-FFE600?logo=grafana-loki\&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Active-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -95,6 +96,9 @@ Transforming infrastructure into automated, secure, and production-ready systems
 [![SkyCanary](https://img.shields.io/badge/SkyCanary-Canary__Deployment__Pipeline-gradient?logo=jenkins\&logoColor=white\&labelColor=blue\&color=white)](https://github.com/gauravchile/SkyCanary)
 [![ShieldOps](https://img.shields.io/badge/ShieldOps-DevSecOps__Dashboard-gradient?logo=jenkins\&logoColor=white\&labelColor=blue\&color=brillantred)](https://github.com/gauravchile/ShieldOps)
 [![EdgeWave](https://img.shields.io/badge/EdgeWave-DevSecOps__Pipeline-gradient?logo=argo\&logoColor=white\&labelColor=0A66C2\&color=00C853)](https://github.com/gauravchile/EdgeWave)
+
+---
+##  ⚙️ Infrastructure as Code • Automation • Observability • AI-Enhanced DevSecOps
 
 ---
 
