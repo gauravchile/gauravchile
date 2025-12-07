@@ -54,7 +54,7 @@ Transforming infrastructure into automated, secure, and production-ready systems
 
 ## 🧰 **DevOps Toolkit**
 
-[![InfraForge](https://img.shields.io/badge/InfraForge-Unified DevSecOps Framework-blue?logo=docker\&logoColor=white)](https://github.com/gauravchile/InfraForge)
+[![InfraForge](https://img.shields.io/badge/InfraForge-Unified_DevSecOps_Framework-blue?logo=docker&logoColor=white)](https://github.com/gauravchile/InfraForge)
 [![Jenkins Shared Libraries](https://img.shields.io/badge/JenkinsSharedLibs-Global%20Pipeline%20Shared%20Libraries-2ECC71?logo=jenkins\&logoColor=white)](https://github.com/gauravchile/JenkinsSharedLibs)
 
 ---
