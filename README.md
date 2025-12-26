@@ -53,10 +53,10 @@ Transforming infrastructure into automated, secure, and production-ready systems
 ---
 
 ## **Flagship Projects**
-[![InfraForge](https://img.shields.io/badge/InfraForge-Open--source%20Infrastructure%20Automation%20Framework-blue?logo=docker&logoColor=white)](https://github.com/InfraForgeLabs/InfraForge)
-[![DevOpsMind](https://img.shields.io/badge/DevOpsMind-Open--source%20DevSecOps%20Knowledge%20Hub-orange?logo=gitlab&logoColor=white)](https://github.com/InfraForgeLabs/DevOpsMind)
+[![InfraForge](https://img.shields.io/badge/InfraForge-Open--source%20Infrastructure%20Automation%20Framework-blue?logo=docker&logoColor=white)](https://infraforge.infraforgelabs.in)
+[![DevOpsMind](https://img.shields.io/badge/DevOpsMind-Open--source%20DevSecOps%20Knowledge%20Hub-orange?logo=gitlab&logoColor=white)](https://devopsmind.infraforgelabs.in)
 
-> 🔗 More at [**InfraForgeLabs**](https://github.com/InfraForgeLabs) — *Building the Future of Infrastructure Automation & DevSecOps.*
+> 🔗 More at [**InfraForgeLabs**](https://infraforgelabs.in)— *Building the Future of Infrastructure Automation & DevSecOps.*
 > 
 
 ---
